@@ -11,6 +11,7 @@ processImgs_new_stitchAndSave.ipynb
 
 ## 2. Variational autoencoder training
 train_cnnvae.ipynb
+
 The trained weights (seed=3) is uploaded as cnnvae_weights.pt.
 
 ## 3. Clustering
